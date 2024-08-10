@@ -5,5 +5,7 @@ public class Test1 {
         int numCats = 11;
 
         System.out.println(numDogs + numCats);
+        System.out.print("I have " + numDogs + " dogs ");
+        System.out.print("and I have " + numCats + " cats.");
     }
 }
